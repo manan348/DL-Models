@@ -1,0 +1,25 @@
+# Core Libraries
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=6.0
+
+# Machine Learning & Deep Learning
+scikit-learn>=1.3
+tensorflow>=2.15
+tensorflow-addons>=0.20
+keras>=2.15
+keras-tuner>=1.4
+
+# Image Processing
+opencv-python>=4.8
+
+# Jupyter & Notebook Support
+jupyter>=1.0
+ipykernel>=6.24
+ipywidgets>=8.0
+
