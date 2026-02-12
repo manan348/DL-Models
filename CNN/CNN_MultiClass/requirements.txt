@@ -1,0 +1,24 @@
+# Core Libraries
+numpy>=1.24
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning & Deep Learning
+scikit-learn
+tensorflow
+keras
+keras-tuner
+tensorflow-addons
+
+# Image Processing
+opencv-python
+
+# Jupyter & Notebook Support
+jupyter
+ipykernel
+ipywidgets
