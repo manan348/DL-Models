@@ -1,0 +1,20 @@
+# Core Libraries
+numpy
+pandas
+emoji
+contractions
+
+# Visualization
+plotly
+matplotlib
+seaborn
+
+# Machine & Deep Learning
+scikit-learn
+tensorflow
+keras
+
+# Jupyter & Notebook Support
+jupyter
+ipykernel
+ipywidgets
